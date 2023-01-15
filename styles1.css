@@ -1,0 +1,14 @@
+body{
+  background-color: #F2DEBA;
+  align-items: center;
+}
+.payment{
+  align-items: center;
+  padding: 20px 200px 100px 300px;
+}
+h1{
+  align-items: center;
+  padding-top: 200px;
+  padding-left: 200px;
+  padding-bottom: 2px;
+}
